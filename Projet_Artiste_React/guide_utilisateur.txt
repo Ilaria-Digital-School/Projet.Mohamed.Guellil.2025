@@ -1,0 +1,98 @@
+# Guide Utilisateur — Site Artiste (React)
+
+Ce site a été conçu pour présenter le travail d’un photographe professionnel de manière simple, fluide et immersive.  
+Il a été optimisé conformément au cahier des charges pour un usage **desktop**.  
+La version mobile est également responsive, bien que non exigée.
+
+---
+
+## Navigation générale
+
+Le site comporte 4 pages principales, accessibles via la barre de navigation ou le menu burger sur mobile :
+
+- **Accueil**
+- **Portfolio**
+- **À propos**
+- **Contact**
+
+---
+
+## Page d’accueil
+
+- Présentation texte placée en haut de page.
+- Texte défilant dynamique.
+- Catégories visuelles cliquables (« Portraits », « Voyage », etc.).
+- Carrousel manuel d’images représentatives.
+- Section newsletter en bas de page.
+
+---
+
+## Page Portfolio
+
+- Galerie présentant vos photos et vidéos.
+- Les nouveaux contenus ajoutés apparaissent automatiquement dans la galerie.
+- Affichage en grille, pratique pour parcourir plusieurs images et vidéos rapidement.
+- Clic sur une image ou une vidéo → ouverture en plein écran pour mieux la visualiser.
+- Le site est entièrement **responsive**, il s'adapte à tous les écrans (ordinateur, tablette, smartphone).
+- Navigation fluide, sans rechargement de la page.
+
+
+---
+
+## Page À propos
+
+- Biographie illustrée.
+- Carte Google Maps du studio.
+- Formulaire de contact rapide.
+- Liens vers réseaux sociaux.
+
+---
+
+## Page Contact
+
+- Adresse avec lien d’itinéraire.
+- Email et téléphone cliquables.
+- Carte Google Maps.
+- Formulaire complet avec confirmation d’envoi.
+- Inscription à la newsletter.
+
+---
+
+## Compatibilité
+
+- Navigateurs testés : Chrome, Firefox (versions récentes).
+- Appareils : Desktop (principal), Tablette, Mobile.
+- Optimisation validée pour desktop (cahier des charges).
+
+---
+
+## Raccourcis utiles
+
+- **Échap** : fermer la lightbox.
+- **← / →** : naviguer entre médias.
+
+---
+
+## FAQ rapide
+
+- **Image qui ne s’ouvre pas ?** → Rechargez la page et réessayez.
+- **Formulaire bloqué ?** → Vérifiez les champs obligatoires.
+- **Affichage décalé ?** → Videz le cache du navigateur.
+
+---
+
+## Conseils pratiques
+
+- Cliquez sur une image pour l’agrandir.
+- Utilisez “Envoyer un message” pour contacter l’artiste.
+- Cliquez sur le logo pour revenir à l’accueil.
+- Sur mobile, utilisez l’icône burger pour naviguer.
+
+---
+
+## Crédits et mentions
+
+Ce site a été réalisé dans le cadre d’un projet de certification RNCP Développeur Front-End.  
+Contenu fictif ou utilisé à des fins de démonstration.
+
+© 2025 Mohamed Guellil

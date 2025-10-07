@@ -1,0 +1,53 @@
+
+
+/* Blocage total avant acceptation utilisateur */
+body.block-all {
+  overflow: hidden;
+  pointer-events: none;
+  user-select: none;
+  touch-action: none;
+}
+
+/* Désactive les clics partout */
+body.block-all * {
+  pointer-events: none;
+}
+
+/* activer les clics pour la banniere cookie */
+body.block-all .cookie-banner,
+body.block-all .cookie-banner * {
+  pointer-events: auto !important;
+}
+
+
+.cookie-banner {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  right: 20px;
+  background-color: #5fbd86;
+  color: #333;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 10001;
+  font-size: 14px;
+  text-align: justify;
+}
+
+.cookie-banner p {
+  margin-right: 20px;
+}
+
+.cookie-banner button {
+  background-color: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}

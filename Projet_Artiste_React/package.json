@@ -1,0 +1,31 @@
+{
+  "name": "projet-artiste-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-helmet-async": "^2.0.5",
+    "react-router-dom": "^6.10.0",
+    "react-router-hash-link": "^2.4.3",
+    "react-slick": "^0.30.3",
+    "slick-carousel": "^1.8.1",
+    "yet-another-react-lightbox": "^3.25.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.3.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "jest": "^30.0.4",
+    "jsdom": "^26.1.0",
+    "vite": "^4.0.0",
+    "vitest": "^3.2.4"
+  }
+}
